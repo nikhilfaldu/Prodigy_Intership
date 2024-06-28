@@ -14,7 +14,7 @@
 - [Introduction](#introduction)
 - [Technologies Used](#technologies-used)
 - [Features](#features)
-- [License](#license)
+
 
 ## Introduction
 
@@ -39,14 +39,4 @@ This project was built using these technologies.
 - Project showcase
 - Contact form
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
-
-## Contact
-
-Feel free to reach out to me at [email@example.com](mailto:mridulmkumar07@gmail.com) or visit my website <a href="https://mridul0703.vercel.app/" target="_blank">mridul.app</a> for more information.
-
-## Show your support
-
-Give a ⭐ if you like this website!
