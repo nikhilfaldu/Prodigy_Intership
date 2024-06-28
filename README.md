@@ -36,8 +36,6 @@ Welcome to the Prodigy Infotech Internship Projects repository! This repository 
    - [Link to Project Repository](https://github.com/mridul0703/Prodigy-Infotech/tree/main/PRODIGY_WD_04)
   
 
-   - Technologies Used: React.js, Axios, OpenWeather API, CSS3, VsCode, Vercel
-   - [Link to Project Repository](https://github.com/mridul0703/Prodigy-Infotech/tree/main/PRODIGY_WD_05)
-   - [Demo Link](https://mridul-weather-app.vercel.app/)
+  
 
 
