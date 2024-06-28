@@ -41,8 +41,7 @@ Welcome to the Prodigy Infotech Internship Projects repository! This repository 
    <img alt="Weather App" src="https://github.com/mridul0703/Prodigy-Infotech/blob/main/PRODIGY_WD_05/src/images/demo-image.png" />
    - Description: Welcome to the Weather App! This application allows you to search for and view weather information for any city. It displays current weather data and supports both Celsius and Fahrenheit temperature units. Enjoy a responsive design for an optimal user experience across all devices.
    - Technologies Used: React.js, Axios, OpenWeather API, CSS3, VsCode, Vercel
-   
-  
-
+   - [Link to Project Repository](https://github.com/mridul0703/Prodigy-Infotech/tree/main/PRODIGY_WD_05)
+   - [Demo Link](https://mridul-weather-app.vercel.app/)
 
 
