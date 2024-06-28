@@ -11,7 +11,7 @@
 - [Introduction](#introduction)
 - [Features](#features)
 - [Usage](#usage)
-- [License](#license)
+
 
 ## Introduction
 
@@ -34,10 +34,4 @@ To explore the Gaming Console Hub Landing Page:
 
 Feel free to customize the landing page according to your preferences or use it as a template for your own projects!
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
-
-## Show your support
-
-If you find this landing page helpful or inspiring, consider giving it a ⭐️ on GitHub!
