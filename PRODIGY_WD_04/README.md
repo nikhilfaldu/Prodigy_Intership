@@ -22,7 +22,7 @@ This portfolio showcases my projects, skills, and experiences. Feel free to expl
 
 ## Technologies Used
 
-My personal portfolio <a href="https://mridul0703.vercel.app/" target="_blank">mridul.app</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio  which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
  
