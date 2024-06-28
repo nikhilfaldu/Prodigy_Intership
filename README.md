@@ -44,11 +44,5 @@ Welcome to the Prodigy Infotech Internship Projects repository! This repository 
    - [Link to Project Repository](https://github.com/mridul0703/Prodigy-Infotech/tree/main/PRODIGY_WD_05)
    - [Demo Link](https://mridul-weather-app.vercel.app/)
 
-## Contact
 
-For any queries or feedback, feel free to reach out to us at [contact@example.com](mailto:mridulmkumar07@gmail.com).
-
-## Star the Repo
-
-If you found these projects useful or interesting, please consider starring the repository to show your support!
 
