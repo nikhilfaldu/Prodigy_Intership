@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - 
-  <a href="https://mridul0703.vercel.app/" target="_blank">mridul.app</a><br /><br />
+  
   <p>Welcome to my portfolio!</p>
 </h2>
 
