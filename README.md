@@ -10,7 +10,6 @@ Welcome to the Prodigy Infotech Internship Projects repository! This repository 
    - Description: Welcome to the Gaming Console Hub Landing Page! This landing page showcases the latest gaming consoles, providing users with information about various gaming options. It's built using HTML, CSS, and JavaScript, offering an engaging and interactive experience.
    - Technologies Used: HTMl, CSS, JavaScript.
    - [Link to Project Repository](https://github.com/nikhilfaldu/Prodigy_Intership/tree/main/PRODIGY_WD_01)
-   - [Demo Link](https://landing-page-mridul.vercel.app/)
 
 2. **PRODIGY_WD_02 - Stop Watch Web Application**
    </br></br>
@@ -18,7 +17,6 @@ Welcome to the Prodigy Infotech Internship Projects repository! This repository 
    - Description: Welcome to the Stopwatch Web Application! This application allows users to accurately measure and record time intervals. It's built using HTML, CSS, and JavaScript, providing an interactive and user-friendly experience.
    - Technologies Used: HTMl, CSS, JavaScript.
    - [Link to Project Repository](https://github.com/nikhilfaldu/Prodigy_Intership/tree/main/PRODIGY_WD_02)
-   - [Demo Link](https://stop-watch-mridul.vercel.app/)
 
 3. **PRODIGY_WD_03 - Tic Tac Toe Web Application**
   </br></br>
@@ -26,7 +24,6 @@ Welcome to the Prodigy Infotech Internship Projects repository! This repository 
    - Description: This project is a simple yet fun Tic-Tac-Toe game built with React.js. Enjoy playing the game and explore the code to see how it's made!
    - Technologies Used: React.js, JavaScript, CSS3, HTML, VsCode, Vercel
    - [Link to Project Repository](https://github.com/nikhilfaldu/Prodigy_Intership/tree/main/PRODIGY_WD_03)
-   - [Demo Link](https://tic-tac-toc-mridul.vercel.app/)
 
 4. **PRODIGY_WD_04 - Personal Portfolio Website**
    </br></br>
