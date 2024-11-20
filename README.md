@@ -27,10 +27,11 @@ Welcome to the Prodigy Infotech Internship Projects repository! This repository 
 
 4. **PRODIGY_WD_04 - Personal Portfolio Website**
    </br></br>
-   <img alt="Personal Portfolio Website" src="https://github.com/mridul0703/Prodigy-Infotech/blob/main/PRODIGY_WD_04/Images/readme-img1.png" />
+   ![portfolt_pr](https://github.com/user-attachments/assets/4fe8ff51-3af1-4758-ae16-87567567978b)
+
    - Description: This portfolio showcases my projects, skills, and experiences. Feel free to explore the different sections and projects!
    - Technologies Used: React.js, JavaScript, CSS3, HTML, VsCode, Vercel
-   - ![portfolt_pr](https://github.com/user-attachments/assets/83c5cf9e-eb07-4b09-a167-5e30baa483e8)
+   - [Link to Project Repository](https://github.com/nikhilfaldu/Prodigy_Intership/tree/main/PRODIGY_WD_04)
 
   
 
